@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
+title: About Mike Bonar
 permalink: /about/
 ---
+I'm always tempted to say, "Works with computers".  Old joke. :)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I have 30 years in the IT industry, and these days I am exploring the wonderful world of functional progamming with Elixir and the Phoenix Framework.  Java is the new Cobol kids.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Have fun!  

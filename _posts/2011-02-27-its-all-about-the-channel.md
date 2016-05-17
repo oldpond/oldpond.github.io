@@ -1,0 +1,45 @@
+---
+layout: post
+title: It's all about the channel
+date: 2011-02-27 19:13
+author: oldpond
+comments: true
+categories: [Ideas, Ideas]
+---
+Why do we have radios in our cars? So we can pipe advertising to a captive audience. Why do we have TVs in our homes? So we can pipe advertising to a captive audience.  Why, when you go to the movie theater now, do you have to sit and watch commercials for 5 minutes before the movies starts? Captive audience.  And, why do we have our computers plugged into the Internet?  If you had asked that question fifteen years ago the answer would have been to share information, and that's still partly the answer.  But, things are changing.
+
+What do radio, TV and the Internet all have in common?  They are all channels for advertising.  These channels can be categorized in three ways: one-way, semi-one-way and two-way.  One-way channels are channels where the communication flows only in one direction.  Radio and TV over the air waves are one-way channels.  They broadcast out, you pick up the signal, and there is nothing sent back.
+
+Semi-one-way channels are channels where the communication flows mainly in one direction, but some data is returned in the other direction.  Satellite radio, and cable and satellite TV are semi-one-way channels.  Most of the communication flows to you, but only your usage information, such as which stations you listen to, and how often you change stations, flows back.
+
+Two-way channels are channels where communication flows equally in both directions.  The Internet is a two-way channel.  Anyone can put up their own website these days.  Blogging is a good example.  I can send my thoughts to you, and you can send your thoughts to me.  You are in a sense on equal footing with the big players.
+
+Content providers and advertisers like one-way and semi-one-way channels because it's very easy to capture the audience. If you want to watch Gilligan's Island over air or cable TV, you have to watch the commercials; you can't turn them off.  You can try to avoid them by leaving the room, but you might miss the part where they get off the island, so you sit through them.
+
+Advertisers like semi-one-way channels even more because not only can they capture the audience, they can place them in a glass box and study their behavior.  They can figure out what's popular and what's not and tailor their content creation and advertising techniques to be more effective.
+
+With a two-way channel like the Internet, it's a bit more difficult to capture the audience.  There are millions of websites to visit around the web, and you are free to visit any one of them.  Efforts were made in the early days of the Internet to capture the audience, but they failed miserably.  Internet service providers would provide software to make it easy for their customers to connect, and this software would provide a custom browser and override the user's home page preferences.  Early attempts to provide Internet via the TV also flopped.  With these systems the customer was provided with a keyboard that would control a custom browser running on the set-top box.  These were early attempts to force the Internet viewing audience (the old, captured TV audience that managed to escape) back into their seats.
+
+Today, people are no longer sitting in front of their TVs as much as they used to; they sit in front of their computers.  The audience has escaped the old channels and entered into a new channel where they are no longer captive, and this has caused a problem for advertisers.
+
+In the early days of the Internet one of the big challenges was to figure out how many "eyeballs" your website was getting, or what was the "stickiness" of your web site.  These terms referred to how many visitors your web site received and how long they stayed in your site before browsing away.  The challenge was trying to figure out how much to charge for an advertisement on a web page.  How do you know people are seeing the ad, how many are clicking on the ad, and how many are buying the product after the click on the ad?  These are the kinds of questions advertisers were struggling with.
+
+Nowadays, companies like Doubleclick (owned by Google) have this mastered.  They know exactly how many users visit a page, how many times an ad is displayed, and how many click the ad.  But savvy Internet users have figured out a way around advertising on the web.  Browsers can be fitted with plugins like Adblock which prevent advertisements from displaying on web pages.  Once again, the Internet audience has proven to be difficult to capture.
+
+A strange thing has happened over the last couple of years; the Internet has become branded.  You know the brands: Twitter, Facebook, Google, Amazon, Youtube, etc.  There are dozens of social networking sites, dozens of search engines, countless numbers of places to buy things, but for some reason everyone is talking about these sites like they are the only ones that exist.  How did this happen?  When did it happen?
+
+At first it was a bit of a puzzler, but then it hit me.  Smartphones.  We are all buying smartphones now, and every smartphone comes with these brands installed.  On many smartphones you can't uninstall them unless you jump through some technical hoops that the average person won't be able to handle.  This is a quiet throwback to the early days of custom browsers and Internet on the TV, and it reads like a second attempt to put the captive audience back into their seats.
+
+One of the problems with smartphones is that they are too small.  Besides actually calling people with them (do people still use them for that?), you can't really browse the Internet or do much more than texting or "tweeting" with them.  You need something bigger, like a tablet.
+
+The tablet revolution is happening now; last year they were a novelty, but this year they will become a necessity.  Why would you lug a laptop around when  you can do everything you want with a nice compact tablet?  It will fit in your pocket.  (Remember those cigarette pockets they used to put on golf shirts?  Clothes will be redesigned to accommodate the tablet.  Watch for those baggy cargo pants to come back in fashion.)  It will certainly fit in a purse given the current fashion for really big purses, and you won't even know it's in your backpack because they are so light and compact.  Everyone is going to want one.
+
+And, the phone companies have brought out a wonderful new thing: you can share your data plan between your phone and your tablet.  One might be surprised by the seemingly generous move by the phone companies given their current track record for overcharging their customers ridiculous sums for using the Internet on their phones.  But, it's not so surprising when you discover that the same Internet brands come installed on your tablet.
+
+I bet if you go to the bar where the old advertising guys sit around talking of the glory days you would hear them reminisce about the days when you could only get four stations on the TV set.  Those were the days of the really big brands because absolutely everyone saw the same commercials.  Those were the days when brand names were household words.  In those days, if you had a runny nose you reached for a Kleenex, not a tissue paper.  Today, when you want to talk to someone you don't pay them a visit or even call them on the phone, you "Tweet them" or "Facebook them".  Those phrases have become new household words in the last couple of years.
+
+Now, personally, I don't like being forced into a captive audience.  I never listen to the radio, ever.  I'm one of those people who switches the channel whenever a commercial comes on the TV, and I spend most of my watching time on the commercial-free stations.  (I'd pay money for a commercial-free science fiction station.)  I have a smartphone, but I don't have a data plan.  I like having the freedom to choose.
+
+You might argue that if tablets really do take over that people will just hack them and run their own un-locked applications on them.  I know I will.  I run Linux on all my computers for exactly this reason.  I get to choose what I see.  Now there's a strange concept.  <strong>A Clockwork Orange</strong> flashes to mind, with that scene where they force open Alex's eyes so he can't stop watching.  I grabbed the book off the shelf to check my references and found this wonderfully appropriate quote on the first page, "things changing so skorry these days and everybody very quick to forget, newspapers not being read much neither".  Anthony Burgess, 1962.
+
+Put all this next to the current move by the channel providers to meter bandwidth and block certain types of traffic, and you've got a bit of a pattern emerging.  There are data plans out there now where your Facebook usage doesn't increase your bandwidth consumption.  Why block, or make prohibitively expensive, some traffic but make others free and easy?  If everyone is using up all the bandwidth with Facebook and Twitter, wouldn't those be the obvious targets for metering?  Not if that's<strong> where you want everyone to go</strong>.

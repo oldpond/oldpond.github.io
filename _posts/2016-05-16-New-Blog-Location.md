@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "New Blog Location"
+title: New Blog Location
+author: oldpond
 date: 2016-05-16
 ---
 
