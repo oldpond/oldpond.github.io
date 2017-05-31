@@ -4,7 +4,7 @@ title: It's all about the channel
 date: 2011-02-27 19:13
 author: oldpond
 comments: true
-categories: [Ideas, Ideas]
+category: [Ideas]
 ---
 Why do we have radios in our cars? So we can pipe advertising to a captive audience. Why do we have TVs in our homes? So we can pipe advertising to a captive audience.  Why, when you go to the movie theater now, do you have to sit and watch commercials for 5 minutes before the movies starts? Captive audience.  And, why do we have our computers plugged into the Internet?  If you had asked that question fifteen years ago the answer would have been to share information, and that's still partly the answer.  But, things are changing.
 
