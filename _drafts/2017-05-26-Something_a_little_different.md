@@ -26,7 +26,7 @@ In our case, the target is working software.  If I were to describe this in LEAN
 
 Chrystal Ball: Unfortunately, nobody at this point suspects that the methodology may be contributing to the delays.
 
-This is a cultural issue in many shops: they will not question methodology midstream.  This is why a smaller, faster method like [Grows](http://growsmethod.com/) stresses the ability to adapt.  Failure to question the approach will likely lead the team to set off down the same path with the same heavy methodology that got them this far. The team might end up producing new versions of the exact same deliverables.  In other words, ll the team might succeed in doing is producing more of what the customer is NOT asking for, deliverables, and LESS of what the customer IS asking for: working software.  
+This is a cultural issue in many shops: they will not question methodology midstream.  This is why a smaller, faster method like [Grows](http://growsmethod.com/) stresses the ability to adapt.  Failure to question the approach will likely lead the team to set off down the same path with the same heavy methodology that got them this far. The team might end up producing new versions of the exact same deliverables.  In other words, all the team might succeed in doing is producing more of what the customer is NOT asking for, deliverables, and LESS of what the customer IS asking for: working software.  
 
 At this point the learning session would carry on describing all the things the team did poorly. I think we can all fill in this list from our own experiences. These things are best left to quiet contemplation.  
 
