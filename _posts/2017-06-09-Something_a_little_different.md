@@ -2,7 +2,7 @@
 layout: post
 title: Something a little different
 author: oldpond
-date: 2017-05-26
+date: 2017-06-09
 category: [Methods]
 ---
 
@@ -12,15 +12,15 @@ The second half I've spent watching the smaller, faster enterprises.  These are 
 
 The last thing that happens after a heavy methodology runs "off the rails" is a learning session.  You list the things you did right, the things you did wrong, and the things you could do better next time.
 
-For the purposes of a simple learning exercise, imagine that you are going to perform the learning session at the beginning of the project instead of at the end.  An amazing thing happens when you perform this simple little test.  It provides you with a crystal ball into the future of what you do not want to happen to your project.  
+For the purposes of a simple learning exercise, imagine that you are going to perform the learning session at the beginning of the project instead of at the end.  An amazing thing happens when you perform this simple little test: it provides the team with a crystal ball into the future of what they do not want to happen to their project.  
 
 I will describe a learning session with a fictional customer who chooses a heavy methodology to deliver a "Common Off The Shelf" (COTS) solution.  If you are not familiar with COTS solutions, they are packages that you install, configure, and run.  They do not require software development, but often many data moving tools will be written.  Think of personal financial management software on steroids.
 
 Chrystal Ball: The team was really good at methodology.  They created lots of deliverables.  Everyone in the IT industry knows this list: project plans, work breakdown structures, issue logs, decision logs, requirements documents, process diagrams, business requirements documents, functional specification documents, technical specification documents, data flow diagrams, lots and lots of ETL jobs, architecture diagrams, sequence diagrams, and weekly meetings for all these deliverables plus daily stand-ups, and of course, estimates.  There are even some things from more Agile approaches like lightweight ticketing systems and backlogs.  In other words, the team added some "agile" things to their heavy methodology to make it more "agile"/heavy. The team had all these things, and they did them very well.  
 
-Chrystal Ball: The team was really good at process.  They followed their methodology meticulously.  Unfortunately, Murphy's Law strikes, the worst case scenario happens, and the team does not have a working system.  An entire year of project time has been spent, and expectations have not been met.  
+Chrystal Ball: The team was really good at process.  They followed their methodology meticulously.  Unfortunately, Murphy's Law strikes, the worst case scenario happens, and the team does not have a working system.
 
-Now, let me describe something we call a critical business driver in the IT business.  Critical business drivers are the most important outcomes for the business users in any project.  They are a bit tricky to define because the list can grow rapidly and get "fuzzy" very quickly when you just start listing all the things that are critical.  They are best described as one or two things that, if not done right, make all the other things you did well not matter one bit.  Critical business drivers are important to define early in the project because they really focus the team on the target.
+Now, let me describe something we call a critical business driver in the IT industry.  Critical business drivers are the most important outcomes for the business users in any project.  They are a bit tricky to define because the list can grow rapidly and get "fuzzy" very quickly when you just start listing all the things that are critical.  They are best described as one or two things that, if not done right, make all the other things you did well not matter one bit.  Critical business drivers are important to define early in the project because they really focus the team on the target.
 
 In our case, the target is working software.  If I were to describe this in LEAN terms, working software is the one thing the customer is standing on the loading dock waiting for.  The project may give the customer a whole bunch of very nice deliverables, but if the project does not deliver working software it has failed.
 
@@ -36,13 +36,13 @@ These big, enterprise systems, as we all know, are not like installing your pers
 
 Chrystal Ball: Murphy's Law strikes! The smaller, faster team finds it can't get the old data into the new system.  After 3 weeks they manage to install, configure and run the COTS solution, but without data they have no working software.
 
-In other words, the team found out about the problem after only 3 weeks, not 12 months as in the case of the heavy methodology. Now the team has an opportunity to adapt.
+In other words, the team found out about a big problem after only 3 weeks.  Now the team has an opportunity to adapt.
 
-There are a couple of ways to go when a team has a data problem.  The team can put a lot of people to work on complex data moving tools, and this is often the first choice because we're computer people, and it's data, right?  It even sounds smaller and faster because the team can throw away the old data moving tools after they get a good set of data in the new system.  It's an easy choice and if it works the team gets a prize.  But, what if it doesn't work?  What if they struggle for a year trying to build complex data moving tools, and it still doesn't work?
+There are a couple of ways to go when a team has a data problem.  The team can put a lot of people to work on complex data moving tools, and this is often the first choice because we're computer people, and it's data, right?  It even sounds smaller and faster because the team can throw away the old data moving tools after they get a good set of data in the new system.  It's an easy choice and if it works the team gets a prize.  But, what if it doesn't work?  What if Murphy's Law strikes and they struggle for a year, and it still doesn't work?
 
 The other way to go is with manual data entry.  It's not hard to estimate how much a team of data entry specialists can produce.  At one record per minute with 5 hours of productive time per day, that's 300 records per day.  A team of ten could produce 3000 records per day or 30000 records in two weeks.  That means if we want to adjust our sprints with manual data entry, we would have, assuming no overlap, 5-week sprints comprised of 3 weeks of install, configure, and run, followed by 2 weeks of data entry.  Since we already burned up one sprint, we would have about 10 5-week sprints left in our one year target.  
 
-A good math exercise here would be to see if there's a change in probability of success between the two iterations of our smaller, faster methods.  We had 17 random tries in the first iteration followed by 11 random tries in the second.  I like to make math easy, so I'll skip that part.  The good news is the new manual data entry team's probability of success is still 11 time higher than the heavy methodology team.
+A good math exercise would be to see if there's a change in probability of success between the two iterations of our smaller, faster method.  We had 17 random tries in the first iteration followed by 11 random tries in the second.  I like to make math easy, so I'll skip that part.  The good news is the new manual data entry team's probability of success is still 11 time higher than the heavy methodology team.
 
 I think at this point you can see where I'm going with this.  But, let's do one more adaptation of our method.  We know that one of the characteristics of smaller, faster methods is their emphasis on velocity.  A modern, software development shop, using lightweight continuous integration and build automation tools, the DEVOPS world, can show the customer working software multiple times per day.  Imagine the team decided to write the COTS solution from scratch using a modern language and platform of choice, and they used 3-week sprints with daily build cycles. This means with a daily "feedback loop" the team would have at least 365 chances to get it right with the even newer, smaller, faster method.  In other words, we could go from 1 to 11 chances to 365 chances of success by simply adapting the method.
 
