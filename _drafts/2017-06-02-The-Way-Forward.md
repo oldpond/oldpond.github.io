@@ -45,13 +45,4 @@ It's moments like these where the human race has an opportunity to adapt.  We ca
 
 The reason I left the Green Party platform behind all those years ago, is that the platform is too lopsided.  It's easy for greens to argue against the oil industry because of the visibly obvious affects of fossil fuels.  But, they never mention all the things that would disappear without a healthy petrochemical industry.  Things like modern medicine, air travel, cell phones and computers, and paved roads.  I believe killing the oil industry is not the correct approach.  Harnessing the oil industry is.  It's going to take a lot of science and technology to fix the planet.  Electric cars are here to stay now, and one day they will replace the combustion engine.  But, those pipelines will continue to flow, even after the old gas guzzlers are gone, if we intend to maintain our current lifestyle.
 
-
-
-
-
-
-
-
-
-
 The big question is, would it be fast enough?
