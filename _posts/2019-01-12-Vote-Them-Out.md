@@ -9,7 +9,7 @@ categories: [Ideas, Politics]
 If you recall back in 2011, when <a href="https://en.wikipedia.org/wiki/Occupy_Wall_Street#%22We_are_the_99%%22">Occupy Wall Street</a> occurred, we learned that 1% of the world's population control 99% of the wealth. And, you have to be either living under a rock, or Republican, (or both) not to be aware of the spectacle of "the president who never was" Trump.  
 
 If you are keen to understand Trump's agenda, read 
-<a href="hhttps://en.wikipedia.org/wiki/Jane_Mayer">Jane Mayer's books: </a><strong>Dark Money</strong> and <strong>Dark Side</strong>.  They were written before Trump, but once you read them you can clearly see what Trump and his 1% cronies are all about.  Trump is the pinnacle of their Tea Party agenda, and you will meet the ones who went on to fund the purchase of the White House with the help of Cambridge Analytica, Facebook and Russia.
+<a href="hhttps://en.wikipedia.org/wiki/Jane_Mayer">Jane Mayer's books: </a><strong>Dark Money</strong> and <strong>Dark Side</strong>.  They were written before Trump, but you can clearly see what Trump and his 1% cronies are all about.  Trump is the pinnacle of their Tea Party agenda, and you will meet the ones who went on to fund the purchase of the White House with the help of Cambridge Analytica, Facebook and Russia.
 
 When most citizens hear statistics like that their eyes tend to glass over.  Sounds like math.  But, let's express that statistic in a way that makes more sense:  there are 99% of us, and only 1% of them.  That feels much better.  There's hope in that expression because, thankfully, we still live in democratic countries.  I think it's clear from the way these Trumps behave that we don't want them running our governments.  
 
