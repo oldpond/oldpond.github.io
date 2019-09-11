@@ -7,7 +7,7 @@ categories: [Politics, Life on Earth]
 ---
 Thanks to Bill Nye for inspiring me to write this.
 
-If you think banning plastic bags is the way to save the planet, I have a quest for you.  Go to the museum, and visit the section from the late 1800's.  This was before the automobile when the primary mode of travel was horse and wagon when there was no such thing as plastic.  And when you are there, ask yourself if the people of that era could fix the following environmental impact.
+If you think banning plastic bags is the way to save the planet, I have a quest for you.  Go to the museum, and visit the section from the late 1800's.  This was before the automobile when the primary mode of travel was horse and wagon, and there was no such thing as plastic.  When you are there, ask yourself if the people of that era could fix the following environmental impact.
 
 Before the internet, the only human made thing you could see with the naked eye from space was the clear cut regions of forest in British Columbia Canada.  (Sorry, amazon, we got you beat there.)  Then the internet allowed us to see that we had made an even bigger impact on the planet: Lake Winnipeg had turned green with toxic algae.
 
