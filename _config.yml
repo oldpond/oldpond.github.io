@@ -9,10 +9,9 @@
 title: Still Dancing
 email: michael.w.bonar@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Developer Blog for Michael Bonar
+  My thoughts about everything.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://oldpond.github.io" # the base hostname & protocol for your site
-twitter_username: oldpond
 github_username:  oldpond
 
 # Build settings
